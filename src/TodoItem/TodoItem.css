@@ -1,0 +1,16 @@
+li {
+    display: flex;
+    align-items: center;
+    height: 83px;
+    width: 488px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 25px;
+    position: static;
+    justify-content: space-between;
+    box-shadow: 9px -11px 8px 5px rgba(0, 0, 0);
+}
+
+li p {
+    font-size: 20px;
+}

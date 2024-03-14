@@ -1,0 +1,18 @@
+div .container-search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div .container-search input {
+    height: 20px;
+    width: 228px;
+    font-size: 18px;
+    border-radius: 1px;
+    border: none;
+    border-bottom: 2px solid black;
+    padding: 5px 0 5px 5px;
+    margin-bottom: 15px;
+    background: floralwhite;
+}

@@ -1,0 +1,42 @@
+li .position-check {
+    margin-left: 15px;
+    font-weight: 800;
+    font-size: 48px;
+    color: gray;
+    margin-top: 13px;
+}
+
+/* li .position-check:hover {
+    color: green; 
+} */
+
+li .Icon-check--active {
+    color: green;
+}
+
+li .position-delete {
+    position: relative;
+    top: -18px;
+    right: 1px;
+    font-weight: 800;
+    font-size: 39px;
+    color: gray;
+}
+
+
+.TodoItem-p--complete {
+    text-decoration: line-through;
+}
+
+.icon-svg {
+    
+}
+
+.icon-check:hover .icon-svg {
+    fill: green;
+}
+
+.icon-delete:hover .icon-svg {
+    fill: red;
+}
+
